@@ -1,16 +1,21 @@
 ## Hi there 👋
+# I'm Monish 
 
-<!--
-**MoNiMoNiSh18/MoNiMoNiSh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student passionate about Software Development, AI/ML, and building scalable systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ • Python • SQL • Machine Learning • Full Stack Development • Database Systems • Git • Blockchain
+
+## 🚀 Projects
+
+* 🔗 BlockAttend – Blockchain-based Attendance System
+* 💼 Payroll Management System – Full-stack payroll automation
+
+## 📚 Currently Learning
+
+Cloud (Azure) • Advanced DSA • Backend Architecture • AI Systems
+
+## 📫 Connect with me
+
+LinkedIn:www.linkedin.com/in/monish-v-1820j06
