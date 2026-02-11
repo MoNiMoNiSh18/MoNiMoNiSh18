@@ -13,7 +13,7 @@ Computer Science Engineering student building **software systems, AI tools, and 
 ## 🧠 Projects
 
 ⭐ **BlockAttend** – Blockchain-based attendance system → https://github.com/MoNiMoNiSh18/BlockAttend
-⭐ **Student Placement & Skill Tracker** – Placement workflow and tracking app → (add link)
+⭐ **Student Placement & Skill Tracker** – Placement workflow and tracking app 
 
 ## 📫 Connect with me
 
