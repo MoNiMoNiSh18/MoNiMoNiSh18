@@ -1,21 +1,21 @@
-## Hi there 👋
-# I'm Monish 
+# 👋 Hi, I'm Monish
 
-Computer Science Engineering student passionate about Software Development, AI/ML, and building scalable systems.
+Computer Science Engineering student building **software systems, AI tools, and blockchain applications**.
 
-## 🔧 Tech Stack
+🔭 I enjoy working with technologies like **C++, Python, SQL, Full Stack development, and decentralized systems**.
 
-C++ • Python • SQL • Machine Learning • Full Stack Development • Database Systems • Git • Blockchain
+## 🛠️ Tech Stack
 
-## 🚀 Projects
+**Languages:** C++, Python, SQL
+**Development:** Full Stack Web Development, Backend APIs
+**Tools & Platforms:** Git, GitHub, Blockchain Concepts
 
-* 🔗 BlockAttend – Blockchain-based Attendance System
-* 💼 Payroll Management System – Full-stack payroll automation
+## 🧠 Projects
 
-## 📚 Currently Learning
-
-Cloud (Azure) • Advanced DSA • Backend Architecture • AI Systems
+⭐ **BlockAttend** – Blockchain-based attendance system → https://github.com/MoNiMoNiSh18/BlockAttend
+⭐ **Student Placement & Skill Tracker** – Placement workflow and tracking app → (add link)
 
 ## 📫 Connect with me
 
-LinkedIn:www.linkedin.com/in/monish-v-1820j06
+LinkedIn: https://www.linkedin.com/in/monish-v-1820j06/
+Email: ashishmoni1813@gmail.com
